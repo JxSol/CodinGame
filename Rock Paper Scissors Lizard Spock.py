@@ -1,4 +1,4 @@
-''' www.codingame.com/ide/puzzle/rock-paper-scissors-lizard-spock '''
+''' https://www.codingame.com/ide/puzzle/rock-paper-scissors-lizard-spock '''
 rules = {'R': ('L', 'C'), 'P': ('R', 'S'), 'C': ('P', 'L'), 'L': ('S', 'P'), 'S': ('C', 'R')}
 players_list = []
 
